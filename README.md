@@ -78,9 +78,3 @@ const bishal = {
   challenge: "Improving every day 💯",
 };
 ```
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/bisha18/bisha18/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
