@@ -77,7 +77,7 @@ const bishal = {
   currentlyLearning: "TypeScript",
   challenge: "Improving every day 💯",
 };
-
+```
 ## 📈 Contribution Graph
 
 <p align="center">
