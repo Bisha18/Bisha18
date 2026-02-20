@@ -1,80 +1,155 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bishal+Paul;Full+Stack+Developer+from+India;React+%7C+Node+%7C+MongoDB+%7C+Express;Open+Source+%7C+DSA+%7C+TypeScript+Lover" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h1 align="center">Bishal Paul</h1>
-<h3 align="center">⚡ A Passionate Full Stack Developer from India ⚡</h3>
+```
+██████╗ ██╗███████╗██╗  ██╗ █████╗ ██╗
+██╔══██╗██║██╔════╝██║  ██║██╔══██╗██║
+██████╔╝██║███████╗███████║███████║██║
+██╔══██╗██║╚════██║██╔══██║██╔══██║██║
+██████╔╝██║███████║██║  ██║██║  ██║███████╗
+╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-<p align="center">
-  <a href="https://github.com/bisha18">
-    <img src="https://komarev.com/ghpvc/?username=bisha18&label=Profile+Views&color=brightgreen&style=flat" alt="bisha18" />
-  </a>
-  <a href="mailto:d.bishalpaul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23d.bishalpaul@gmail.com-red" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/bishal-paul-2897a624b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+### ⚡ Full Stack Developer • MERN Enthusiast • DSA Grinder ⚡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+that+live+on+the+internet;MERN+Stack+%7C+TypeScript+%7C+System+Design;Turning+coffee+into+clean+code+%E2%98%95;LeetCode+grinder+%F0%9F%94%A5+%7C+Always+learning)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧬 `whoami`
 
-- 🔭 Currently building full-stack apps using **MERN Stack**
-- 🌱 Learning **TypeScript** and exploring **system design**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Express.js**
-- 📫 Reach me at **d.bishalpaul@gmail.com**
-- 🧠 Actively solving DSA on **LeetCode**
+```ts
+const bishal: Developer = {
+  name: "Bishal Paul",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+
+  currentlyBuilding: "🚀 Full-stack apps that actually ship",
+  currentlyLearning: ["TypeScript 📘", "System Design 🏗️"],
+  currentlyGrinding: "LeetCode every single day 💪",
+
+  stack: {
+    frontend:  ["React", "TypeScript", "HTML/CSS", "JavaScript"],
+    backend:   ["Node.js", "Express.js"],
+    database:  ["MongoDB"],
+    languages: ["JavaScript", "TypeScript", "C++", "Python"],
+  },
+
+  askMeAbout: ["React", "Node.js", "MongoDB", "Express", "DSA"],
+  reachMe: "d.bishalpaul@gmail.com",
+
+  lifePhilosophy: "Ship it. Fix it. Improve it. Repeat. 🔄",
+};
+```
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</p>
+<div align="center">
 
----
+**Frontend**
 
-## 🏆 GitHub Achievements
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bisha18&theme=algolia&row=1&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other Languages & Tools**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisha18&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisha18&layout=compact&theme=radical" width="45%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisha18&theme=radical" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishalpaul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalpaul&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bishalpaul&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🧠 Fun Fact
+## 🏆 GitHub Trophies
 
-```ts
-const bishal = {
-  code: ["JavaScript", "TypeScript", "C++", "Python"],
-  askMeAbout: ["Web Dev", "MERN Stack", "DSA", "System Design"],
-  currentlyLearning: "TypeScript",
-  challenge: "Improving every day 💯",
-};
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bishalpaul&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalpaul&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
 ```
+[██████████░░░░░░░░░░] Master TypeScript       — In Progress 🔥
+[████████░░░░░░░░░░░░] System Design Concepts  — In Progress 📐
+[███████████████░░░░░] MERN Stack Projects     — Shipping! 🚀
+[████████████░░░░░░░░] LeetCode 300+ Problems  — Grinding! 💪
+[░░░░░░░░░░░░░░░░░░░░] Open Source Contributor — Coming Soon ⭐
+```
+
+---
+
+## 🎲 Random Dev Joke
+
+> **Q:** Why do Java developers wear glasses?
+> **A:** Because they don't C#! 😂
+
+> *(Refresh for more... actually just trust the process)*
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.bishalpaul@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bishalpaul)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bishalpaul&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+### "First, solve the problem. Then, write the code." — John Johnson
+
+*⭐ Star some repos if you find them useful — it genuinely motivates! ⭐*
+
+</div>
