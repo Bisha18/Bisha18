@@ -89,20 +89,6 @@ I'm **Bishal Paul**, a passionate Full Stack Developer from **Dhanbad, India �
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bisha18&theme=tokyonight&no-frame=true&margin-w=6&row=1)
-
-</div>
-
-🦈 **Pull Shark** — merging code like a predator  
-⚡ **Quickdraw** — fast on the trigger  
-🎲 **YOLO** — ships first, asks questions never
-
----
-
 ## 🧠 The Dev Object
 
 ```ts
